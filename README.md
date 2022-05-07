@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-public/preview.png
+(public/preview.png)
 
 ## Available Scripts
 
