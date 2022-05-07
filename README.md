@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-https://github.com/SolomonSitotaw23/Todo-react.js/blob/master/public/preview.png
+(https://github.com/SolomonSitotaw23/Todo-react.js/blob/master/public/preview.png)
 ## Available Scripts
 
 In the project directory, you can run:
