@@ -1,10 +1,9 @@
 # Getting Started with Create React App
-(public/preview.png)
-
+https://github.com/SolomonSitotaw23/Todo-react.js/blob/master/public/preview.png
 ## Available Scripts
 
 In the project directory, you can run:
-###'npm install'
+### 'npm install'
 ### `npm start`
 
 Runs the app in the development mode.\
